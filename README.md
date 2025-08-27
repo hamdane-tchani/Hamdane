@@ -5,4 +5,4 @@ Je m'appelle TCHANI Hamdane. Je suis actuellement en M1 Mathematique et Intellig
 ### A proppos de moi
 
 ## M1 Mathématiques et Intelligence Artificielle PAris SAclay
-## Licence Mathématiques et Informatique Paris Saclay
+## Licence Mathématiques et Informatique a l'Universite Claude Bernard Lyon1
